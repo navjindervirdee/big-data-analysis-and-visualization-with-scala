@@ -7,6 +7,10 @@ This is the last course and captsone project of Functional Programming in Scala 
 * In this project the first task is to analyze and visualize the climate temperatures data all the world from the year 1975 to 2015.
 * Second task is to visualize how the temperatures values have varied or deviated all over the globe from the year 1990 to 2015. 
 
+<p align ="center">
+<img src="https://github.com/navjindervirdee/big-data-analysis-and-visualization-with-scala/blob/master/target/Util%20Images/FinalVideo.gif"/> 
+</p>
+
 ## Dataset
 
 First, let's see how the dataset looks like:
@@ -33,7 +37,7 @@ First, let's see how the dataset looks like:
 
 * **Scala Language:** Scala is a general-purpose programming language providing support for functional programming and a strong static type system. Scala combines object-oriented and functional programming in one concise, high-level language. Scala's static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries.
 
-* **Functional Programming:** In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements. In functional code, the output value of a function depends only on the arguments that are passed to the function, so calling a function f twice with the same value for an argument x produces the same result f(x) each time; this is in contrast to procedures depending on a local or global state, which may produce different results at different times when called with the same arguments but a different program state.
+* **Functional Programming:** In computer science, functional programming is a programming paradigmâ€”a style of building the structure and elements of computer programsâ€”that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements. In functional code, the output value of a function depends only on the arguments that are passed to the function, so calling a function f twice with the same value for an argument x produces the same result f(x) each time; this is in contrast to procedures depending on a local or global state, which may produce different results at different times when called with the same arguments but a different program state.
 
 * **Parallel Programming:** Parallel computing is a type of computation in which many calculations or the execution of processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: bit-level, instruction-level, data, and task parallelism.
 
